@@ -1,7 +1,7 @@
 ### <div align="center">I’m Palak, an undergraduate student specializing in AI&ML </div>  
   
 
-I’m currently working on evaluating LLMs and conversational AI solutions, focusing primarily on testing their multilingual capabilities and domain-specific performance.☔🌦️🪐❄️
+I’m currently working on evaluating LLMs and conversational AI solutions, focusing primarily on testing their domain-specific performance and multilingual capabilities.☔🌦️🪐❄️
   
 ##### My Skill Set  
 <div>   
