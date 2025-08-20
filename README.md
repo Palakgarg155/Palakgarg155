@@ -1,8 +1,5 @@
 ### <div align="center">I’m Palak, an undergraduate student specializing in AI&ML </div>  
   
-
-I’m currently working on evaluating LLMs and conversational AI solutions, focusing primarily on testing their domain-specific performance and multilingual capabilities.☔🌦️🪐❄️
-  
 ##### My Skill Set  
 <div>   
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
