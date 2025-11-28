@@ -1,9 +1,5 @@
 <!-- Header -->
 <h1 align="center">🌟 Hi, I’m Palak!</h1>
-<div align="center">
-  💡 <b>AI & ML Engineer</b>
-</div>
-
 ---
 
 ## 👩‍💻 About Me  
