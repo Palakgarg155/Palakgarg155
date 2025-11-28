@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">🌟 Hi, I’m Palak!</h1>
 <div align="center">
-  💡 <b>AI & ML Engineer</b> • Conversational AI • Evaluation Frameworks • RAG Systems
+  💡 <b>AI & ML Engineer</b>
 </div>
 
 ---
@@ -48,18 +48,11 @@ I love working on **Conversational AI**, AI safety, and evaluation systems that 
 
 ## 📫 Connect With Me  
 <div align="left">  
-<a href="https://www.linkedin.com/in/palak-garg/" target="_blank">
+<a href="https://www.linkedin.com/in/palak-garg155/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </div>
 
----
-
-## ⭐ Quick Stats  
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=palakgarg&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=palakgarg&theme=tokyonight" height="150"/>
-</p>
 
 ---
 
