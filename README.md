@@ -1,6 +1,5 @@
 <!-- Header -->
 <h1 align="center">🌟 Hi, I’m Palak!</h1>
-
 ## 👩‍💻 About Me  
 I’m an AI & ML engineer working across **Natural Language Processing, Generative AI, Data Science, and Computer Vision**.  
 My work focuses on **building and evaluating reliable AI systems**—turning research ideas into solutions that work in the real world.
